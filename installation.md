@@ -1,4 +1,4 @@
-# README
+# Installation
 Instructions to run and install the F1Tenth Simulator.
 
 The following set of instructions are to be used only for Ubuntu 20.04 and above.
